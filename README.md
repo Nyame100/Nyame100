@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at (www.gyenyame.xyz)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gyenyame.xyz)
 
-- 💬 Ask me about **MERN, Next**
+- 💬 Ask me about **MERN, NextJS**
 
 - 📫 How to reach me **nyamerichmond100@gmail.com**
 
