@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN, NextJS**
 
-- 📫 How to reach me **nyamerichmond100@gmail.com**
+- 📫 How to reach me **nyame_richmond@yahoo.com**
 
 - ⚡ Fun fact **I am funny**
 
