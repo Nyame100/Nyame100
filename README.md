@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nyame_richmond@yahoo.com**
 
-- ⚡ Fun fact **I enjoy playing pingpong**
+- ⚡ Fun fact: **I enjoy playing pingpong**
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nyame100&show_icons=true&theme=radical" />
 
