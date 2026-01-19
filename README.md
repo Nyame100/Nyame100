@@ -1,11 +1,11 @@
 # Hi there, I'm Nyame! 👋
-<h3 align="center">A Fullstack Developer</h3>
+<h3 align="center">Devops</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Bash**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gyenyame.xyz)
 
-- 💬 Ask me about **MERN, NextJS**
+- 💬 Ask me about **Bourne Again, Cloud computing**
 
 - 📫 How to reach me **nyame_richmond@yahoo.com**
 
@@ -24,7 +24,7 @@
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
