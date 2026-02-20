@@ -13,9 +13,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nyame100&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nyame100" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyame100)](https://github.com/anuraghazra/github-readme-stats)
-
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyame100&layout=compact" />
 
 
